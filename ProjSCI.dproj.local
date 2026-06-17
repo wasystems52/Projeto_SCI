@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/11/22 10:16:01.000.007,=C:\Users\washi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/11/22 10:36:25.000.972,C:\Users\washi\Documents\Embarcadero\Studio\Projects\Unit1.pas=S:\Projetos\Delphi\SCI2005\SCI.pas</Transaction>
+    <Transaction>2025/11/22 10:36:25.000.972,C:\Users\washi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=S:\Projetos\Delphi\SCI2005\SCI.dfm</Transaction>
+    <Transaction>2025/11/22 10:36:52.000.401,C:\Users\washi\Documents\Embarcadero\Studio\Projects\Project1.dproj=S:\Projetos\Delphi\SCI2005\ProjSCI.dproj</Transaction>
+    <Transaction>2026/02/21 09:28:12.000.124,=S:\Projetos\Delphi\SCI2005\Unit1.pas</Transaction>
+    <Transaction>2026/02/21 09:29:02.000.508,S:\Projetos\Delphi\SCI2005\frmCalendario.pas=S:\Projetos\Delphi\SCI2005\Unit1.pas</Transaction>
+    <Transaction>2026/02/21 09:29:02.000.508,S:\Projetos\Delphi\SCI2005\frmCalendario.dfm=S:\Projetos\Delphi\SCI2005\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
